@@ -14,34 +14,30 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-goyal-aab918292)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aurasharshil-boop)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236E40C9.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/aurasharshil-boop)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236E40C9.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://harshilgoyal.me)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arveharshil@gmail.com)
 
 </div>
 
 ---
 
-## `$ whoami`
+## 👨‍💻 About Me
 
 ```python
-class HarshilGoyal:
+# harshil.py
 
-    name     = "Harshil Goyal"
-    title    = "AI Developer & Software Engineer"
-    location = "India"
-    focus    = ["AI-Powered Apps", "SaaS Products", "Automation Systems"]
+name     = "Harshil Goyal"
+title    = "AI Developer & Software Engineer"
+location = "Ludhiana, India"
+focus    = ["AI-Powered Apps", "SaaS Products", "Automation Systems"]
 
-    def passion(self) -> str:
-        return "Building tools that make humans 10x more productive"
+passion  = "Building tools that make humans 10x more productive"
 
-    def currently(self) -> dict:
-        return {
-            "building" : "AchieveHub AI  —  GitHub for student achievements",
-            "learning" : "LLM Agents, RAG Pipelines, System Design",
-            "open_to"  : "Collaborations on AI, Automation & Startups",
-        }
-
-me = HarshilGoyal()
+currently = {
+    "building" : "AchieveHub AI  --  GitHub for student achievements",
+    "learning" : "LLM Agents, RAG Pipelines, System Design",
+    "open_to"  : "Collaborations on AI, Automation & Startups",
+}
 ```
 
 ---
