@@ -12,10 +12,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshilgoyal)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-goyal-aab918292)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aurasharshil-boop)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%236E40C9.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/aurasharshil-boop)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harshilgoyal@email.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arveharshil@gmail.com)
 
 </div>
 
@@ -25,20 +25,23 @@
 
 ```python
 class HarshilGoyal:
-    name      = "Harshil Goyal"
-    title     = "AI Developer & Software Engineer"
-    location  = "India 🇮🇳"
-    focus     = ["AI-Powered Apps", "SaaS Products", "Automation Systems"]
 
-    def passion(self):
+    name     = "Harshil Goyal"
+    title    = "AI Developer & Software Engineer"
+    location = "India"
+    focus    = ["AI-Powered Apps", "SaaS Products", "Automation Systems"]
+
+    def passion(self) -> str:
         return "Building tools that make humans 10x more productive"
 
-    def currently(self):
+    def currently(self) -> dict:
         return {
-            "building" : "AchieveHub AI — GitHub for student achievements",
+            "building" : "AchieveHub AI  —  GitHub for student achievements",
             "learning" : "LLM Agents, RAG Pipelines, System Design",
-            "open_to"  : "Collaborations on AI, Automation & Startups"
+            "open_to"  : "Collaborations on AI, Automation & Startups",
         }
+
+me = HarshilGoyal()
 ```
 
 ---
@@ -169,7 +172,7 @@ If you're building something ambitious — **let's talk.**
 
 <br/>
 
-[![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshilgoyal)
+[![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshil-goyal-aab918292)
 [![View My Work](https://img.shields.io/badge/View%20My%20Work-%236E40C9.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aurasharshil-boop)
 
 </div>
