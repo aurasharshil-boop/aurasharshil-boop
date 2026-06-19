@@ -1,31 +1,146 @@
-# 💫 About Me:
-🛠️ I'm currently working on<br>Building AI-powered web applications and automation tools.<br><br>👥 I'm looking to collaborate on<br>Open-source AI projects, web apps, and developer tools.<br><br>🤝 I'm looking for help with<br>Deployment, user acquisition, and scaling software projects.<br><br>🌱 I'm currently learning<br>AI agents, local LLMs, automation workflows, and modern web development.<br><br>💬 Ask me about<br>AI tools, self-hosting models, web development, and automation.<br><br>⚡ Fun fact<br>I enjoy building software that can automate real-world tasks.<br><br>Or, if you want it to sound more ambitious:<br><br>🛠️ I'm currently working on<br>Creating AI systems that can research, automate tasks, and interact with websites.<br><br>👥 I'm looking to collaborate on<br>Projects involving AI, automation, and software development.<br><br>🤝 I'm looking for help with<br>Turning technical projects into products people actually use.<br><br>🌱 I'm currently learning<br>Machine learning, AI agents, and full-stack development.<br><br>💬 Ask me about<br>Local AI models, automation, coding, and startups.<br><br>⚡ Fun fact<br>Most of my projects start as experiments and end up teaching me something completely unexpected.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/xo.harshil1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arveharshil@gmail.com) 
-
-# 💻 Tech Stack:
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=aurasharshil-boop&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=aurasharshil-boop&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=aurasharshil-boop&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=aurasharshil-boop&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=aurasharshil-boop&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+<div align="center">
+```
+██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗██╗██╗      ██████╗  ██████╗ ██╗   ██╗ █████╗ ██╗
+██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║██║██║     ██╔════╝ ██╔═══██╗╚██╗ ██╔╝██╔══██╗██║
+███████║███████║██████╔╝███████╗███████║██║██║     ██║  ███╗██║   ██║ ╚████╔╝ ███████║██║
+██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║██║██║     ██║   ██║██║   ██║  ╚██╔╝  ██╔══██║██║
+██║  ██║██║  ██║██║  ██║███████║██║  ██║██║███████╗╚██████╔╝╚██████╔╝   ██║   ██║  ██║███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚══════╝ ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚══════╝
+```
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=6E40C9&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=AI+Developer+%26+Software+Engineer;Building+Intelligent+Systems+%26+SaaS+Products;Turning+Ideas+into+Automation+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+<br/>
+<div align="center">
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Portfolio](https://img.shields.io/badge/Portfolio-%236E40C9.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+</div>
 ---
-[![](https://komarev.com/ghpvc/?username=aurasharshil-boop&icon=0&color=0)](https://visitcount.itsvg.in)
+`$ whoami`
+```python
+class HarshilGoyal:
+    name        = "Harshil Goyal"
+    title       = "AI Developer & Software Engineer"
+    location    = "India 🇮🇳"
+    focus       = ["AI-Powered Apps", "SaaS Products", "Automation Systems"]
+    
+    def passion(self):
+        return "Building tools that make humans 10x more productive"
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/🤝 Contributing  • Report issues • Submit pull requests • Suggest new features • Help test releases) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/🤝 Contributing  • Report issues • Submit pull requests • Suggest new features • Help test releases) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/🤝 Contributing  • Report issues • Submit pull requests • Suggest new features • Help test releases) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/🤝 Contributing  • Report issues • Submit pull requests • Suggest new features • Help test releases) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+    def currently(self):
+        return {
+            "building"  : "AchieveHub AI — GitHub for student achievements",
+            "learning"  : "LLM Agents, RAG Pipelines, System Design",
+            "open_to"   : "Collaborations on AI, Automation & Startups"
+        }
+```
+---
+⚡ Tech Arsenal
+<div align="center">
+Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+AI / ML & APIs
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Vision-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![LangChain](https://img.shields.io/badge/AI%20Agents-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+Tools & Workflow
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+</div>
+---
+🚀 Featured Projects
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏆 AchieveHub AI</h3>
+      <p>A <strong>GitHub-inspired achievement tracking platform</strong> for students. Showcase certificates, awards, competitions, and projects — all in one place with AI-powered profile insights.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI-Powered-6E40C9?style=flat"/>
+      </p>
+      <p><strong>→ Student achievement portfolio, shareable profiles, competition tracking</strong></p>
+    </td>
+    <td width="50%">
+      <h3>🤖 WhatsApp Business Automation</h3>
+      <p>Automated outreach and lead generation system for businesses. Built with Python to handle campaigns, replies, and CRM-style follow-ups at scale.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Automation-FF6C37?style=flat"/>
+      </p>
+      <p><strong>→ Lead gen, auto-replies, campaign scheduling</strong></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📄 AI Resume Builder</h3>
+      <p>Modern AI-powered resume generation platform with ATS-optimized templates. Users input details, AI crafts the perfect resume — professional output in seconds.</p>
+      <p>
+        <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+      </p>
+      <p><strong>→ AI generation, multiple templates, PDF export</strong></p>
+    </td>
+    <td width="50%">
+      <h3>🔍 OCR Document Scanner</h3>
+      <p>Intelligent document extraction and processing system powered by OCR and Google Vision API. Handles invoices, forms, IDs, and complex document layouts.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Google%20Vision-4285F4?style=flat&logo=googlecloud&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OCR-00C853?style=flat"/>
+      </p>
+      <p><strong>→ Text extraction, form parsing, structured output</strong></p>
+    </td>
+  </tr>
+</table>
+---
+📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshilgoyal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6E40C9&icon_color=6E40C9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshilgoyal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E40C9"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshilgoyal&theme=tokyonight&hide_border=true&background=0D1117&stroke=6E40C9&ring=6E40C9&fire=FF6C37&currStreakLabel=6E40C9" alt="GitHub Streak"/>
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshilgoyal&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6E40C9&line=6E40C9&point=FF6C37" alt="Contribution Graph"/>
+</div>
+---
+🧠 What I'm Building Towards
+```
+┌─────────────────────────────────────────────────────────────────┐
+│                                                                   │
+│   💡  SaaS products that run on autopilot                        │
+│   🤖  AI agents that handle complex workflows end-to-end         │
+│   📈  EdTech tools that give students a competitive edge         │
+│   🔗  Automation systems that replace 8 hours of work            │
+│                                                                   │
+└─────────────────────────────────────────────────────────────────┘
+```
+---
+🌐 Let's Build Something
+<div align="center">
+> *"The best automation is the kind nobody notices — it just works."*
+I'm always open to collaborating on AI products, automation tools, and startup ideas. If you're building something ambitious, let's talk.
+<br/>
+![Connect on LinkedIn](https://img.shields.io/badge/Let's%20Connect-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![View My Work](https://img.shields.io/badge/View%20My%20Work-%236E40C9.svg?style=for-the-badge&logo=github&logoColor=white)
+</div>
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=harshilgoyal&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" alt="Profile Views"/>
+<br/><br/>
+<sub>⚡ Built with passion in India · Always shipping · Always learning</sub>
+</div>
